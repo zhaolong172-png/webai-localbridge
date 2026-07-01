@@ -1,0 +1,27 @@
+{
+  "rootDir": "",
+  "mcpAdvancedPermission": false,
+  "secondaryAiBrowserRootDir": "",
+  "frontendPreviewLocalUrl": "http://127.0.0.1:5173/",
+  "rootBoundaryMode": "root-only",
+  "commandExecution": false,
+  "fileFastConfirm": false,
+  "fixedPublicUrls": {
+    "mcp": "",
+    "aiBrowser": "",
+    "secondaryAiBrowser": "",
+    "frontendPreview": ""
+  },
+  "fixedTunnel": {
+    "baseDomain": "",
+    "token": "",
+    "enabled": false,
+    "frontendPreviewFixedEnabled": false
+  },
+  "skill": {
+    "folder": ".agents/skills",
+    "resolvedFolder": "",
+    "mode": "default",
+    "updatedAt": ""
+  }
+}
