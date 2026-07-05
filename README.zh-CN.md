@@ -1,6 +1,7 @@
 # WebAI LocalBridge
 
 [English README](./README.md)
+
 WebAI LocalBridge 是连接本地文件、本地工具、MCP Server、AI File Browser 和 Web AI / Cloud Agent 的本地网关。
 
 ## 下载
