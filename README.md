@@ -5,7 +5,7 @@ Local file, MCP, browser, and tunnel gateway for Web AI agents.
 ## Download
 
 - [Offline installer package](./output/WebAI-LocalBridge-offline-installer-v3.5.13.zip)
-- [Release: v3.5.13](https://github.com/zhaolong172-png/webai-localbridge-backup/releases/tag/v3.5.13)
+- [Release: v3.5.13](https://github.com/zhaolong172-png/webai-localbridge/releases/tag/v3.5.13)
 
 ## License
 
