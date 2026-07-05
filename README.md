@@ -15,7 +15,9 @@ This project is released under The Unlicense.
 
 ---
 
-## 1. Project Overview`n`n### 1.1 What Is WebAI LocalBridge?
+## 1. Project Overview
+
+### 1.1 What Is WebAI LocalBridge?
 
 WebAI LocalBridge is an AI file gateway application that runs on the user’s local computer. With the user’s authorization, it allows ChatGPT, Claude, Doubao, Qianwen, Kimi, Gemini, DeepSeek, and other Web AI / Cloud Agents to access local files, local projects, and local tools through AI File Browser, MCP Server, and public tunnels.
 
