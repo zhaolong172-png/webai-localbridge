@@ -1,3 +1,17 @@
+# WebAI LocalBridge
+
+Local file, MCP, browser, and tunnel gateway for Web AI agents.
+
+## Download
+
+- [Offline installer package](./output/WebAI-LocalBridge-offline-installer-v3.5.13.zip)
+- [Release: v3.5.13](https://github.com/zhaolong172-png/webai-localbridge-backup/releases/tag/v3.5.13)
+
+## License
+
+This project is released under The Unlicense.
+
+---
 1.1 What Is WebAI LocalBridge?
 
 WebAI LocalBridge is an AI file gateway application that runs on the user’s local computer. With the user’s authorization, it allows ChatGPT, Claude, Doubao, Qianwen, Kimi, Gemini, DeepSeek, and other Web AI / Cloud Agents to access local files, local projects, and local tools through AI File Browser, MCP Server, and public tunnels.
